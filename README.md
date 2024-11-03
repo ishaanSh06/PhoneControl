@@ -1,4 +1,4 @@
-# [PhoneControl](https://jeherillajanwar.github.io/PhoneControl/)
+# [PhoneControl](https://ishaanSh06.github.io/PhoneControl/)
 A web app, which let's user play games wirelessly using a diffrent device through out the world. 
 
 1. Open the joystick or button controller in a mobile or web device
